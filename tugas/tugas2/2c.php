@@ -14,7 +14,7 @@
 <?php
 for($i = 10; $i >= 1; $i--){
     for($j = 1; $j <= $i; $j++){
-        echo '<div class="kotak">'.$j.'</div>';
+        echo '<div class="kotak"> '.$j.' </div>';
     }
     echo "<br>";
 }
