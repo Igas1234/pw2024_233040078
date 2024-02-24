@@ -27,7 +27,7 @@
     </style>
 </head>
 
-
+<!-- variabel -->
 <body>
   <div class="kotak">
 <div class="balok">

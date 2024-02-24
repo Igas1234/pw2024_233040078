@@ -2,7 +2,7 @@
 
 $angka = "78";
 echo "aku adalah angka <b>$angka</b><br>";
-
+//variabel
 $angka *= "5";
 echo "jika aku dikali 5,maka aku sekarang menjadi <b>$angka</b><br>";
 
