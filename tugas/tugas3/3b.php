@@ -1,6 +1,6 @@
 <?php
 // 
-function cetak_angka($baris){
+function urutanAngka($baris){
     $k = 1;
     for($i = 1; $i <= $baris; $i++){
         for($j = 1; $j <= $i;  $j++){
@@ -11,6 +11,6 @@ function cetak_angka($baris){
       }
 }
 
-echo cetak_angka(5);
+echo urutanAngka(5);
 
 ?>
