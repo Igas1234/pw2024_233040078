@@ -1,5 +1,5 @@
 <?php
-
+// 
 function cetak_angka($baris){
     $k = 1;
     for($i = 1; $i <= $baris; $i++){

@@ -4,7 +4,7 @@ function hitungluaslingkaran($r){
     echo "jari-jari =$r<br>";
     $l = $r * $r* 3.14;
     echo "luas lingkaran =$l cm<sup>2</sup><br>";
-
+// 
 }
 echo hitungluaslingkaran(10);
 echo "<hr>";
