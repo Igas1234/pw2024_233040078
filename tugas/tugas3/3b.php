@@ -10,7 +10,7 @@ function urutanAngka($baris){
       echo"<br>";
       }
 }
-
+// 
 echo urutanAngka(5);
 
 ?>

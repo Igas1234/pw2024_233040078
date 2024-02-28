@@ -8,7 +8,7 @@ function hitungluaslingkaran($r){
 }
 echo hitungluaslingkaran(10);
 echo "<hr>";
-
+// 
 echo "<h4>menghitung keliling lingkaran</h4>";
 function hitungkelilinglingkaran($r){
     echo "jari-jari =$r<br>";
